@@ -1,0 +1,7 @@
+{
+    "name": "goodcat/init",
+    "description": "Initial commit",
+    "type": "metapackage",
+    "license": "MIT",
+    "require": {}
+}
